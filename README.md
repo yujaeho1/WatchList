@@ -1,2 +1,2 @@
 # WatchList
-WatchList
+졸업작품
